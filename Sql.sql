@@ -1,0 +1,10 @@
+CREATE DATABASE club_informatique;
+
+CREATE TABLE inscriptions (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(50) NOT NULL,
+    prenom VARCHAR(50) NOT NULL,
+    whatsapp VARCHAR(20) NOT NULL,
+    niveau VARCHAR(10) NOT NULL,
+    reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

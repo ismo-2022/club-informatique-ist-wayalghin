@@ -5,62 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Club Informatique IST WAYALGHIN</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-            background-image: url();
-        }
-        header {
-            background-color: #1989f9;
-            color: rgb(251, 247, 247);
-            text-align: center;
-            padding: 20px;
-        }
-        section {
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #e8f313;
-        }
-        p {
-            text-align: justify;
-            font-size: 18px;
-            line-height: 1.6;
-        }
-        .cta {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .cta a {
-            background-color: #1e90ff;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
-        .cta a:hover {
-            background-color: #104e8b;
-        }
-        .images {
-            display: flex;
-            justify-content: space-around;
-            margin-top: 30px;
-        }
-        .images img {
-            width: 30%;
-            border-radius: 10px;
-        }
-    footer { background-color: black;
-        color: rgb(251, 247, 247);
-            text-align: center;
-            padding: 20px;
-
-    }
-    </style>
 </head>
 <body>
     <header>
